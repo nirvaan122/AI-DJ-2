@@ -1,0 +1,35 @@
+.heading{
+   width: 100%;
+   font-size: 25px; 
+   margin: 0px;
+}
+.NOTE{
+    font-size: 15px;
+    color: black;
+}
+body{
+    background-size: cover;
+}
+.divspeed{
+    float: right;
+}
+.divvol{
+    float: left;
+}
+.img1{
+ width:200px; 
+ border-radius: 100px;  
+}
+.img2{
+    width:200px; 
+    border-radius: 100px;  
+}
+.btn1{
+ font-size: 27px;
+ width: 130px;   
+}
+canvas{
+    border:5px solid white;
+    border-radius: 30px;
+
+}
